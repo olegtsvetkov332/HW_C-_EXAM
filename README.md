@@ -33,5 +33,5 @@
 
 ## Блок схема 
 
-
+![блок схема](https://github.com/olegtsvetkov332/HW_C-_EXAM/blob/master/ИТОГКРСХЕМА.png)
 
